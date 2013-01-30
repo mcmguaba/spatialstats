@@ -1,0 +1,27 @@
+--------------------------------------------
+MyPLevelMeticsCircleArea
+Area of the smallest circumscribing circle
+Average: 135.299694773
+Median: 1.57079632679
+Standard Deviation: 4662.15755709
+Minimum: 1.57079632679
+Maximum: 222072.901497
+Range: 222071.330701
+--------------------------------------------
+YLength
+Distribution of the max N-S length
+Average: 1.93657505285
+Median: 1.0
+Standard Deviation: 7.20724577439
+Minimum: 1
+Maximum: 274
+Range: 273
+--------------------------------------------
+XLength
+Distribution of the max E-W length
+Average: 1.80507399577
+Median: 1.0
+Standard Deviation: 8.07468152029
+Minimum: 1
+Maximum: 376
+Range: 375
